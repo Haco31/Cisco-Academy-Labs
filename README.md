@@ -15,4 +15,4 @@ Este repositorio contiene el progreso y las prácticas realizadas durante el cur
 
 
 ---
-*Estudiante: [Tu Nombre]*
+*Estudiante: Harol C.*
