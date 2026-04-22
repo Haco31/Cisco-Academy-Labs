@@ -12,7 +12,7 @@ Herramientas comunes utilizadas para recopilar información sobre un objetivo a 
 ### Parte 2.
 - Uso del nslookup -> uso básico, convertir el nombre del dominio en una dirección IP. | Otra función es que proporciona información adicional.
 	- Accedemos al manual con el comando `man nslookup` 
-	- (manual_nslookup)
+	- [manual](screenshots/manual_nslookup.png)
 
 ### Paso 3.
 - En la terminal usar nslookup, para entrar en modo interactivo y para poder convertir un dominio en IP, ingresar el nombre, por ejemplo cisco.com
