@@ -14,14 +14,14 @@ En esta practica de laboratorio se alcanzarán los siguientes objetivos:
 
 - En la mayoría de los navegadores aparece un candado al lado de la URL. Explorar las configuraciones disponibles.
 - Se puede ver los certificados de sitio web desde las mismas opciones.
-- [Certificado](/screenshots/certificados.png)
+- [Certificado](screenshots/certificados.png)
 
 
 #### Paso2. Ver los certificados almacenados en el SO.
 
 - Para ver los certificados de windows usamos el comando `certmgr.msc` en el buscador de windows.
 - Y en kali se usa `/usr/share/ca-certificates/mozilla`
-- [Certificado](/screenshots/Certificado%20kali.png)
+- [Certificado](screenshots/Certificado%20kali.png)
 - Para acceder a la información sobre certificados raíz e intermedio de confianza podemos usa entrar en la siguiente ruta de kali **/usr/share/ca-certificates/mozilla.** y para poder enumerar los archivos de certificados raíz **ls -l | grep root**
 
 
@@ -49,7 +49,7 @@ La aplicación **aha** crea un archivo HTML estándar que captura la salida de l
 #### Paso 2. Ejecutar sslscan y guarde el resultado en un archivo HTML.
 
 - Desde la terminal ejecutar el siguiente comando + la pagina objetivo `sslscan "pagina objetivo"`
-- [sslscan](/screenshots/sslscan.png)
+- [sslscan](screenshots/sslscan.png)
 - Después de una demora se verá los resultados del escano.
 - La salida esta códificada por colores para facilitar la interpretación de la gravedad de los Problemas detectados. Significado de colores:
 
