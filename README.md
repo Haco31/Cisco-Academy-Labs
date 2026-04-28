@@ -13,7 +13,7 @@ Este repositorio contiene el progreso y las prácticas realizadas durante el cur
 | :--- | :--- | :--- |
 | `[01-recon-ng]` | Recolección de información pasiva con Recon-ng | ✅ Completado |
 | `[02-busqueda-DNS]` | Recolección de información a traves de DNS | ✅ Completado |
-
+| `[03-busqueda-CertificadoSSL]` | Ver información de certificados en hosts | ✅ Completado |
 
 ---
 *Estudiante: Harol C.*
